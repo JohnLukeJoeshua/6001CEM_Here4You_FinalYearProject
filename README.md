@@ -1,6 +1,6 @@
 #  6001CEM Final Year Project - John Luke Joeshua
 
-**Please _DO NOT_ use this Mobile application for personal usage, this project is meant for University Final Year Project**
+**Please _DO NOT_ use this Mobile application for personal usage, this project is meant for University Final Year**
 
 ## Here4You - Mental Health Mobile Application
 
