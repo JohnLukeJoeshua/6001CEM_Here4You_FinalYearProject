@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "396224656279",
+    "project_id": "here4you-3fa76",
+    "storage_bucket": "here4you-3fa76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396224656279:android:ace8ef5856e46f09370ad2",
+        "android_client_info": {
+          "package_name": "com.example.here4you"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396224656279-3vtpjaun9momui15c9j66dlf3ccpt32r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.here4you",
+            "certificate_hash": "94dc7fbba846d05dfaa6da9a4f1ea3230e02f897"
+          }
+        },
+        {
+          "client_id": "396224656279-vnu2m77fm4m93ih5d7nsqmum7tvese5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5WguHdpQWvseIPB7fkVeggpb-F45DWes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396224656279-vnu2m77fm4m93ih5d7nsqmum7tvese5u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "396224656279-sqkn3fncl0iitn930517jrrvn4bml0rg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.here4you"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
